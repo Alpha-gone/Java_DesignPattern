@@ -37,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "E:/class/DesignPattern",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -51,7 +52,7 @@
       <recent name="adapter" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ObserverMain">
+  <component name="RunManager" selected="애플리케이션.strategy.StrategyMain">
     <configuration name="AopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="aop.AopMain" />
       <module name="DesignPattern.main" />
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.SingletonMain" />
+    <configuration name="strategy.StrategyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.StrategyMain" />
       <module name="DesignPattern.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.strategy.StrategyMain" />
         <item itemvalue="애플리케이션.ObserverMain" />
         <item itemvalue="애플리케이션.DecotatorMain" />
         <item itemvalue="애플리케이션.AopMain" />
         <item itemvalue="애플리케이션.ProxyMain" />
-        <item itemvalue="애플리케이션.SingletonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652966348632</updated>
       <workItem from="1652966350016" duration="6940000" />
+      <workItem from="1653051784539" duration="6225000" />
     </task>
     <servers />
   </component>
